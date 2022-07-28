@@ -20,6 +20,10 @@ Here are some of the databases that I've worked with:<BR><BR>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=JamesDMiller1969)](https://github.com/JamesDMiller1969)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesDMiller1969&layout=compact)](https://github.com/JamesDMiller1969)  
 
 
 
