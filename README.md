@@ -8,6 +8,7 @@ I’m interested in unique data, analytics and cloud based solutions. I am also 
   <a href="https://www.linkedin.com/in/jamesdouglasmiller/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
   
 <BR>
+ 
 <!---
 JamesDMiller1969/JamesDMiller1969 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
