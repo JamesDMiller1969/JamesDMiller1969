@@ -5,7 +5,7 @@ I’m interested in unique data, analytics and cloud based solutions. I am also 
 
   <h2>
 🤝 Connect with me: <BR><BR>
-  <a href="https://www.linkedin.com/in/JamesDMiller/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+  <a href="https://www.linkedin.com/in/jamesdouglasmiller/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
   
 <BR>
 <!---
