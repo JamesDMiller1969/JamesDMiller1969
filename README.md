@@ -3,7 +3,7 @@ Hello World, I’m <B>Jim!</B><BR><BR>
 <HR>
 I’m interested in unique data, analytics and cloud based solutions. I am also interested in continuing to pursue part time freelance writing opportunities of all kinds. I am currently exploring Snowflake and other cloud and database enviroments and tools. I’m looking to collaborate on almost anything concerning data, the cloud and writing. Use my email to reach me at: <B>james_douglas_miller@yahoo.com</B><BR><BR>  
 
-  <h2>
+ 
 🤝 Connect with me: <BR><BR>
   <a href="https://www.linkedin.com/in/jamesdouglasmiller/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
   
