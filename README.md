@@ -32,6 +32,10 @@ Here are some of the databases that I've worked with:<BR><BR>
 
 <!---![LinkedIN](linkedin.svg)-->
  
+ <h2>Recent Blog Posts of interest:</h2>
+ 
+ Exploring PostgreSQL with pgAdmin: https://quebit.com/askquebit/quebit-products/exploring-postgresql-with-pgadmin/
+ 
  ![Visitor Count](https://profile-counter.glitch.me/{JamesDMiller1969}/count.svg)
  
   
