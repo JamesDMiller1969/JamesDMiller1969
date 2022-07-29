@@ -31,4 +31,7 @@ Here are some of the databases that I've worked with:<BR><BR>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesDMiller1969&layout=compact)](https://github.com/JamesDMiller1969)  
 
 <!---![LinkedIN](linkedin.svg)-->
+ 
+ ![Visitor Count](https://profile-counter.glitch.me/{JamesDMiller1969}/count.svg)
+ 
   
